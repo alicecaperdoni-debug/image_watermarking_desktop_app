@@ -1,11 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="" />
+    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/image_watermarking_desktop_app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,11 +33,73 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.000000000000001" />
+      <entry key="S2" value="1.000184586078178" />
+      <entry key="S5" value="1.0347987837420607" />
+      <entry key="S10" value="1.2561712427844314" />
+      <entry key="S30" value="2.822821625616074" />
+      <entry key="S60" value="5.946183549606791" />
+      <entry key="M2" value="12.201490654949973" />
+      <entry key="M5" value="25.74837245897477" />
+      <entry key="M10" value="42.32077929847812" />
+      <entry key="M15" value="56.11651158377603" />
+      <entry key="M30" value="84.17247712045884" />
+      <entry key="H1" value="109.89482213066661" />
+      <entry key="H2" value="127.95951804674147" />
+      <entry key="H4" value="138.7670528719108" />
+      <entry key="D1" value="148.85329934022045" />
+      <entry key="W1" value="150.69056164015808" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.5194899173534089E-117" />
+      <entry key="S2" value="6.243447377724456E-30" />
+      <entry key="S5" value="2.0805098806097785E-12" />
+      <entry key="S10" value="1.4424576322119588E-6" />
+      <entry key="S30" value="0.011921095588183337" />
+      <entry key="S60" value="0.1427365652112348" />
+      <entry key="M2" value="0.6281391675660981" />
+      <entry key="M5" value="1.9787338906694156" />
+      <entry key="M10" value="3.6241297942225064" />
+      <entry key="M15" value="4.859777670626306" />
+      <entry key="M30" value="7.2448468965891655" />
+      <entry key="H1" value="9.42680950152807" />
+      <entry key="H2" value="10.982309594713328" />
+      <entry key="H4" value="11.923947404684034" />
+      <entry key="D1" value="12.81038492192265" />
+      <entry key="W1" value="12.972647245863476" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.06606362753508628" />
+      <entry key="MS500" value="0.580754365962861" />
+      <entry key="S2" value="0.873021602168058" />
+      <entry key="S5" value="0.9680692626497124" />
+      <entry key="S10" value="1.1705063117195238" />
+      <entry key="S30" value="2.7043359560240656" />
+      <entry key="S60" value="5.955288345202055" />
+      <entry key="M2" value="12.701435709730665" />
+      <entry key="M5" value="27.62448263952829" />
+      <entry key="M10" value="45.86754475466921" />
+      <entry key="M15" value="60.91219239845752" />
+      <entry key="M30" value="91.3729713942271" />
+      <entry key="H1" value="119.29371507984834" />
+      <entry key="H2" value="138.92580736727697" />
+      <entry key="H4" value="150.68236442000685" />
+      <entry key="D1" value="161.66214668059408" />
+      <entry key="W1" value="163.6629866607641" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 7,
   "fromUser": false
 }]]></component>
   <component name="ProjectId" id="3LC56cyiIxoZHGXKrv5w4vKacMl" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -26,14 +107,33 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.main.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/HP/Desktop/100 days of Python/Progetti/image_watermarking_desktop_app/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\100 days of Python\Progetti\image_watermarking_desktop_app\images" />
+      <recent name="C:\Users\HP\Desktop\100 days of Python\Progetti\image_watermarking_desktop_app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\Desktop\100 days of Python\Progetti\image_watermarking_desktop_app\images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
