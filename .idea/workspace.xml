@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="Schermata Tkinter">
+    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="Rifatto tutto con tutorial &quot;browse-upload-display-image-in-tkinter&quot;">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -44,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0045815244112286" />
-      <entry key="MS500" value="1.3883359557333477" />
-      <entry key="S2" value="2.625717084984392" />
-      <entry key="S5" value="3.6838133433852374" />
-      <entry key="S10" value="4.368672267210196" />
-      <entry key="S30" value="6.364792192168396" />
-      <entry key="S60" value="9.303786524456537" />
-      <entry key="M2" value="13.701116809541814" />
-      <entry key="M5" value="22.57188435712448" />
-      <entry key="M10" value="36.903132910139256" />
-      <entry key="M15" value="51.79501859585395" />
-      <entry key="M30" value="95.0873150741406" />
-      <entry key="H1" value="158.21048394080154" />
-      <entry key="H2" value="220.49334735547373" />
-      <entry key="H4" value="266.0831250819432" />
-      <entry key="D1" value="314.8169760135828" />
-      <entry key="W1" value="324.3700214707289" />
+      <entry key="MS100" value="1.0000164677160226" />
+      <entry key="MS500" value="1.1125694989155128" />
+      <entry key="S2" value="2.103926949515546" />
+      <entry key="S5" value="4.564835284176813" />
+      <entry key="S10" value="7.76583433887963" />
+      <entry key="S30" value="14.023251101403886" />
+      <entry key="S60" value="18.030648251619205" />
+      <entry key="M2" value="21.80002653634885" />
+      <entry key="M5" value="28.252998495792582" />
+      <entry key="M10" value="37.058432118086365" />
+      <entry key="M15" value="45.32719338730471" />
+      <entry key="M30" value="73.31573378988227" />
+      <entry key="H1" value="134.56775106130038" />
+      <entry key="H2" value="220.23751242303712" />
+      <entry key="H4" value="298.1313470246337" />
+      <entry key="D1" value="394.89244516499707" />
+      <entry key="W1" value="415.44273559877917" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="0.0" />
-      <entry key="S2" value="1.1040453864200758E-121" />
-      <entry key="S5" value="4.141853856176123E-49" />
-      <entry key="S10" value="6.435723624707133E-25" />
-      <entry key="S30" value="8.640870450899227E-9" />
-      <entry key="S60" value="9.669140524458902E-5" />
-      <entry key="M2" value="0.012412218751559087" />
-      <entry key="M5" value="0.3146986740576619" />
-      <entry key="M10" value="1.1016974812847917" />
-      <entry key="M15" value="1.8844037207479256" />
-      <entry key="M30" value="4.296897452183072" />
-      <entry key="H1" value="8.257190992602803" />
-      <entry key="H2" value="12.46956032364255" />
-      <entry key="H4" value="15.67475146691022" />
-      <entry key="D1" value="19.18441551672639" />
-      <entry key="W1" value="19.88090706891994" />
+      <entry key="MS500" value="6.787282311731858E-291" />
+      <entry key="S2" value="3.588505253472242E-73" />
+      <entry key="S5" value="1.5152035455451484E-29" />
+      <entry key="S10" value="5.4538436804558926E-15" />
+      <entry key="S30" value="2.789357911298914E-5" />
+      <entry key="S60" value="0.007568719568081178" />
+      <entry key="M2" value="0.13233694128075893" />
+      <entry key="M5" value="0.8159511850927755" />
+      <entry key="M10" value="1.5997949269615688" />
+      <entry key="M15" value="2.109160810831019" />
+      <entry key="M30" value="3.46481199069383" />
+      <entry key="H1" value="6.611100436822418" />
+      <entry key="H2" value="11.523356690035408" />
+      <entry key="H4" value="16.281861410623197" />
+      <entry key="D1" value="22.43520758193561" />
+      <entry key="W1" value="23.768410147133725" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8743764977284826" />
-      <entry key="MS500" value="1.3438445006097595" />
-      <entry key="S2" value="2.59485439836323" />
-      <entry key="S5" value="3.6651496317384678" />
-      <entry key="S10" value="4.3574423143462875" />
-      <entry key="S30" value="6.3530173190348505" />
-      <entry key="S60" value="9.283260464209349" />
-      <entry key="M2" value="13.68632741465586" />
-      <entry key="M5" value="22.857388517181857" />
-      <entry key="M10" value="37.97255876618094" />
-      <entry key="M15" value="53.64394382316794" />
-      <entry key="M30" value="99.34402635560156" />
-      <entry key="H1" value="166.43074596878782" />
-      <entry key="H2" value="232.9361738325727" />
-      <entry key="H4" value="281.7415003662223" />
-      <entry key="D1" value="333.9981282600223" />
-      <entry key="W1" value="344.2504474397501" />
+      <entry key="MS100" value="0.8467598484648029" />
+      <entry key="MS500" value="1.0770834550316093" />
+      <entry key="S2" value="2.088663702871179" />
+      <entry key="S5" value="4.552168136706275" />
+      <entry key="S10" value="7.755283463863851" />
+      <entry key="S30" value="14.013940976209007" />
+      <entry key="S60" value="18.027080728395354" />
+      <entry key="M2" value="21.918567208942086" />
+      <entry key="M5" value="29.047417148131945" />
+      <entry key="M10" value="38.63343416988018" />
+      <entry key="M15" value="47.41207541769033" />
+      <entry key="M30" value="76.75666337908878" />
+      <entry key="H1" value="141.15318860664138" />
+      <entry key="H2" value="231.73785459899216" />
+      <entry key="H4" value="314.39695370862984" />
+      <entry key="D1" value="417.3239480470601" />
+      <entry key="W1" value="439.21058612712096" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -175,7 +175,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793035051456</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Rifatto tutto con tutorial &quot;browse-upload-display-image-in-tkinter&quot;">
+      <option name="closed" value="true" />
+      <created>1793286558750</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1793286558750</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +192,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Schermata Tkinter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Schermata Tkinter" />
+    <MESSAGE value="Rifatto tutto con tutorial &quot;browse-upload-display-image-in-tkinter&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rifatto tutto con tutorial &quot;browse-upload-display-image-in-tkinter&quot;" />
   </component>
 </project>

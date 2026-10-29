@@ -5,6 +5,7 @@ import tkinter.font as tkFont
 from PIL import Image, ImageTk
 #https://pillow.readthedocs.io/en/stable/reference/ImageTk.html
 
+#TODO RISOLVI IL PROBLEMA COL PASTE PER IL WATERMARK; dopo togli i resize e fai salvare in automatico nuova img, non mostrarla
 #image uploader function
 def imageUploader():
     fileTypes = [("Image files", "*.png;*.jpg;*.jpeg")]
@@ -12,9 +13,14 @@ def imageUploader():
 
     # if file is selected
     if len(path):
-        img = Image.open(path)
-        img = img.resize((200, 200))
-        pic = ImageTk.PhotoImage(img)
+        image = Image.open(path)
+        image = image.resize((200, 200))
+        image_width, image_height = image.size
+        image_sheet = Image.new("RGB", (image_width, image_height))
+        image_sheet.paste(image)
+        box = (100, 100, 0, 0)
+        # image_sheet.paste(logo, box, 255)
+        pic = ImageTk.PhotoImage(image)
 
         # re-sizing the app window in order to fit picture
         # and button
@@ -24,7 +30,7 @@ def imageUploader():
 
     # if no file is selected, then we are displaying below message
     else:
-        print("No file is Choosen !! Please choose a file.")
+        print("No file is chosen !! Please choose a file.")
 
 # Main method
 if __name__ == "__main__":
@@ -35,7 +41,7 @@ if __name__ == "__main__":
 
     # setting title and basic size to our App
     window.title("Image Watermarking by Alis")
-    window.minsize(400, 300)
+    window.geometry("560x270")
 
     #welcome text
     welcome_label = Label(text="Welcome!\nYou're going to add the following logo:")
@@ -43,9 +49,9 @@ if __name__ == "__main__":
     welcome_label.pack()
 
     # adding background image
-    img = ImageTk.PhotoImage(file='images/logo.png')
-    imgLabel = Label(window, image=img)
-    imgLabel.pack()
+    logo = ImageTk.PhotoImage(file='images/logo.png')
+    logoLabel = Label(window, image=logo)
+    logoLabel.pack()
 
     #action text
     action_label = Label(text="Please upload your image:")
@@ -59,7 +65,6 @@ if __name__ == "__main__":
     label = tk.Label(window)
     label.pack(pady=10)
 
-#TODO Fai funzionare il bottone
     # defining our upload button
     uploadButton = tk.Button(window, text="Locate Image", command=imageUploader)
     uploadButton.pack(side=tk.BOTTOM, pady=20)
