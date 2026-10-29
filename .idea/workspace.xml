@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="Initial commit">
+    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="Schermata Tkinter">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -44,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000000002906806" />
-      <entry key="MS500" value="1.014364556954476" />
-      <entry key="S2" value="1.5446560142753878" />
-      <entry key="S5" value="2.181344951405906" />
-      <entry key="S10" value="2.5355007043451288" />
-      <entry key="S30" value="2.8417597666296373" />
-      <entry key="S60" value="3.2348082314557036" />
-      <entry key="M2" value="5.092855712594716" />
-      <entry key="M5" value="13.498755989608124" />
-      <entry key="M10" value="28.219510374141752" />
-      <entry key="M15" value="43.18991253274363" />
-      <entry key="M30" value="84.78740677302365" />
-      <entry key="H1" value="139.28581700874182" />
-      <entry key="H2" value="188.1367638428471" />
-      <entry key="H4" value="221.78567731577814" />
-      <entry key="D1" value="256.2704144941839" />
-      <entry key="W1" value="262.8773037305126" />
+      <entry key="MS100" value="1.0045815244112286" />
+      <entry key="MS500" value="1.3883359557333477" />
+      <entry key="S2" value="2.625717084984392" />
+      <entry key="S5" value="3.6838133433852374" />
+      <entry key="S10" value="4.368672267210196" />
+      <entry key="S30" value="6.364792192168396" />
+      <entry key="S60" value="9.303786524456537" />
+      <entry key="M2" value="13.701116809541814" />
+      <entry key="M5" value="22.57188435712448" />
+      <entry key="M10" value="36.903132910139256" />
+      <entry key="M15" value="51.79501859585395" />
+      <entry key="M30" value="95.0873150741406" />
+      <entry key="H1" value="158.21048394080154" />
+      <entry key="H2" value="220.49334735547373" />
+      <entry key="H4" value="266.0831250819432" />
+      <entry key="D1" value="314.8169760135828" />
+      <entry key="W1" value="324.3700214707289" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.3089499494122163E-189" />
-      <entry key="S2" value="6.01493252971616E-48" />
-      <entry key="S5" value="1.2932792335266727E-19" />
-      <entry key="S10" value="3.596219172306762E-10" />
-      <entry key="S30" value="7.111295366149171E-4" />
-      <entry key="S60" value="0.02666701217839559" />
-      <entry key="M2" value="0.16330905242940097" />
-      <entry key="M5" value="0.5014970200346264" />
-      <entry key="M10" value="0.9814592772723861" />
-      <entry key="M15" value="1.6502737995241479" />
-      <entry key="M30" value="4.0698541913355255" />
-      <entry key="H1" value="7.752300735762592" />
-      <entry key="H2" value="11.2793651605705" />
-      <entry key="H4" value="13.786938062615535" />
-      <entry key="D1" value="16.406791739146907" />
-      <entry key="W1" value="16.91371212657752" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="1.1040453864200758E-121" />
+      <entry key="S5" value="4.141853856176123E-49" />
+      <entry key="S10" value="6.435723624707133E-25" />
+      <entry key="S30" value="8.640870450899227E-9" />
+      <entry key="S60" value="9.669140524458902E-5" />
+      <entry key="M2" value="0.012412218751559087" />
+      <entry key="M5" value="0.3146986740576619" />
+      <entry key="M10" value="1.1016974812847917" />
+      <entry key="M15" value="1.8844037207479256" />
+      <entry key="M30" value="4.296897452183072" />
+      <entry key="H1" value="8.257190992602803" />
+      <entry key="H2" value="12.46956032364255" />
+      <entry key="H4" value="15.67475146691022" />
+      <entry key="D1" value="19.18441551672639" />
+      <entry key="W1" value="19.88090706891994" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8408964154833539" />
-      <entry key="MS500" value="0.979445372433754" />
-      <entry key="S2" value="1.5240845901748126" />
-      <entry key="S5" value="2.1665843359442936" />
-      <entry key="S10" value="2.526213749839537" />
-      <entry key="S30" value="2.8383571049477845" />
-      <entry key="S60" value="3.251812261734988" />
-      <entry key="M2" value="5.230688227503053" />
-      <entry key="M5" value="13.961434039341562" />
-      <entry key="M10" value="29.157695528506594" />
-      <entry key="M15" value="44.79403012457823" />
-      <entry key="M30" value="88.81023343046965" />
-      <entry key="H1" value="146.99953843609907" />
-      <entry key="H2" value="199.39027014859545" />
-      <entry key="H4" value="235.55745317244885" />
-      <entry key="D1" value="272.67430064689444" />
-      <entry key="W1" value="279.79059044927743" />
+      <entry key="MS100" value="0.8743764977284826" />
+      <entry key="MS500" value="1.3438445006097595" />
+      <entry key="S2" value="2.59485439836323" />
+      <entry key="S5" value="3.6651496317384678" />
+      <entry key="S10" value="4.3574423143462875" />
+      <entry key="S30" value="6.3530173190348505" />
+      <entry key="S60" value="9.283260464209349" />
+      <entry key="M2" value="13.68632741465586" />
+      <entry key="M5" value="22.857388517181857" />
+      <entry key="M10" value="37.97255876618094" />
+      <entry key="M15" value="53.64394382316794" />
+      <entry key="M30" value="99.34402635560156" />
+      <entry key="H1" value="166.43074596878782" />
+      <entry key="H2" value="232.9361738325727" />
+      <entry key="H4" value="281.7415003662223" />
+      <entry key="D1" value="333.9981282600223" />
+      <entry key="W1" value="344.2504474397501" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -113,28 +113,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/HP/Desktop/100 days of Python/Progetti/image_watermarking_desktop_app/images",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/HP/Desktop/100 days of Python/Progetti/image_watermarking_desktop_app/images&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\HP\Desktop\100 days of Python\Progetti\image_watermarking_desktop_app\images" />
@@ -167,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792949542824</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Schermata Tkinter">
+      <option name="closed" value="true" />
+      <created>1793035051456</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793035051456</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Schermata Tkinter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Schermata Tkinter" />
   </component>
 </project>
