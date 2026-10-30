@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="Rifatto tutto con tutorial &quot;browse-upload-display-image-in-tkinter&quot;">
+    <list default="true" id="dc408a41-e687-494c-8cf5-98257dd28165" name="Changes" comment="modifica bottone (la funzione paste non funziona)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -44,61 +44,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0000164677160226" />
-      <entry key="MS500" value="1.1125694989155128" />
-      <entry key="S2" value="2.103926949515546" />
-      <entry key="S5" value="4.564835284176813" />
-      <entry key="S10" value="7.76583433887963" />
-      <entry key="S30" value="14.023251101403886" />
-      <entry key="S60" value="18.030648251619205" />
-      <entry key="M2" value="21.80002653634885" />
-      <entry key="M5" value="28.252998495792582" />
-      <entry key="M10" value="37.058432118086365" />
-      <entry key="M15" value="45.32719338730471" />
-      <entry key="M30" value="73.31573378988227" />
-      <entry key="H1" value="134.56775106130038" />
-      <entry key="H2" value="220.23751242303712" />
-      <entry key="H4" value="298.1313470246337" />
-      <entry key="D1" value="394.89244516499707" />
-      <entry key="W1" value="415.44273559877917" />
+      <entry key="MS100" value="1.0000000003292724" />
+      <entry key="MS500" value="1.0133172939810138" />
+      <entry key="S2" value="1.5336551908966372" />
+      <entry key="S5" value="2.5427781261903566" />
+      <entry key="S10" value="3.546716955270714" />
+      <entry key="S30" value="5.455257705126775" />
+      <entry key="S60" value="7.788098789512189" />
+      <entry key="M2" value="13.528313254866172" />
+      <entry key="M5" value="28.99502713636632" />
+      <entry key="M10" value="49.135116650602555" />
+      <entry key="M15" value="65.05040843997129" />
+      <entry key="M30" value="103.21934061875864" />
+      <entry key="H1" value="170.18366227572588" />
+      <entry key="H2" value="264.1553802074392" />
+      <entry key="H4" value="353.10008240454533" />
+      <entry key="D1" value="467.78894583924546" />
+      <entry key="W1" value="492.6748487491128" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="6.787282311731858E-291" />
-      <entry key="S2" value="3.588505253472242E-73" />
-      <entry key="S5" value="1.5152035455451484E-29" />
-      <entry key="S10" value="5.4538436804558926E-15" />
-      <entry key="S30" value="2.789357911298914E-5" />
-      <entry key="S60" value="0.007568719568081178" />
-      <entry key="M2" value="0.13233694128075893" />
-      <entry key="M5" value="0.8159511850927755" />
-      <entry key="M10" value="1.5997949269615688" />
-      <entry key="M15" value="2.109160810831019" />
-      <entry key="M30" value="3.46481199069383" />
-      <entry key="H1" value="6.611100436822418" />
-      <entry key="H2" value="11.523356690035408" />
-      <entry key="H4" value="16.281861410623197" />
-      <entry key="D1" value="22.43520758193561" />
-      <entry key="W1" value="23.768410147133725" />
+      <entry key="MS500" value="5.0765556854248624E-225" />
+      <entry key="S2" value="9.004393141642514E-57" />
+      <entry key="S5" value="4.980044595438227E-23" />
+      <entry key="S10" value="9.648824819944642E-12" />
+      <entry key="S30" value="3.3525136774565625E-4" />
+      <entry key="S60" value="0.025867868927514234" />
+      <entry key="M2" value="0.22769270281049867" />
+      <entry key="M5" value="0.9014547921493481" />
+      <entry key="M10" value="1.773006288081548" />
+      <entry key="M15" value="2.4986245653307493" />
+      <entry key="M30" value="4.257487339997864" />
+      <entry key="H1" value="7.578953781781212" />
+      <entry key="H2" value="12.780311275024301" />
+      <entry key="H4" value="18.049825102112543" />
+      <entry key="D1" value="25.150490741335705" />
+      <entry key="W1" value="26.725249498727106" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8467598484648029" />
-      <entry key="MS500" value="1.0770834550316093" />
-      <entry key="S2" value="2.088663702871179" />
-      <entry key="S5" value="4.552168136706275" />
-      <entry key="S10" value="7.755283463863851" />
-      <entry key="S30" value="14.013940976209007" />
-      <entry key="S60" value="18.027080728395354" />
-      <entry key="M2" value="21.918567208942086" />
-      <entry key="M5" value="29.047417148131945" />
-      <entry key="M10" value="38.63343416988018" />
-      <entry key="M15" value="47.41207541769033" />
-      <entry key="M30" value="76.75666337908878" />
-      <entry key="H1" value="141.15318860664138" />
-      <entry key="H2" value="231.73785459899216" />
-      <entry key="H4" value="314.39695370862984" />
-      <entry key="D1" value="417.3239480470601" />
-      <entry key="W1" value="439.21058612712096" />
+      <entry key="MS100" value="0.7737824970313337" />
+      <entry key="MS500" value="0.9627045085520234" />
+      <entry key="S2" value="1.4914117744428892" />
+      <entry key="S5" value="2.4214744776913597" />
+      <entry key="S10" value="3.412708249603158" />
+      <entry key="S30" value="5.373050189049072" />
+      <entry key="S60" value="7.745484906960649" />
+      <entry key="M2" value="13.685090044517425" />
+      <entry key="M5" value="29.828054152508372" />
+      <entry key="M10" value="50.849914767277355" />
+      <entry key="M15" value="67.4980185036909" />
+      <entry key="M30" value="107.43662222963634" />
+      <entry key="H1" value="177.72834896410185" />
+      <entry key="H2" value="276.907785186806" />
+      <entry key="H4" value="371.1306688694542" />
+      <entry key="D1" value="492.9350726981803" />
+      <entry key="W1" value="519.399438660531" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -183,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793286558750</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="modifica bottone (la funzione paste non funziona)">
+      <option name="closed" value="true" />
+      <created>1793291246466</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1793291246466</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +201,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Schermata Tkinter" />
     <MESSAGE value="Rifatto tutto con tutorial &quot;browse-upload-display-image-in-tkinter&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rifatto tutto con tutorial &quot;browse-upload-display-image-in-tkinter&quot;" />
+    <MESSAGE value="modifica bottone (la funzione paste non funziona)" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifica bottone (la funzione paste non funziona)" />
   </component>
 </project>
